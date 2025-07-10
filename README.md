@@ -1,5 +1,5 @@
 ## 🙋‍♀️ Introducing Myself
-![ChatGPT Image Jul 10, 2025, 12_17_42 AM](https://github.com/user-attachments/assets/0e08902e-38f5-40a3-9e42-2bb0eb6c9a03)
+![ChatGPT Image Jul 10, 2025, 12_17_42 AM](https://github.com/user-attachments/assets/cb534460-f496-4ed7-b694-a8e143aebd84)
 
 📍 MS in Business Analytics & AI, University of Texas at Dallas  
 🧠 Passionate about data-driven decisions, scalable systems, and full-stack development  
