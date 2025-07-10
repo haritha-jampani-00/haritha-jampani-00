@@ -1,8 +1,6 @@
-## 🙋‍♀️ Hello, I'm Haritha Jampani
-![ChatGPT Image Jul 10, 2025, 12_15_18 AM](https://github.com/user-attachments/assets/5a500e9b-52ca-499c-9cf9-81088a521781)
+## 🙋‍♀️ Introducing Myself
+![ChatGPT Image Jul 10, 2025, 12_17_42 AM](https://github.com/user-attachments/assets/0e08902e-38f5-40a3-9e42-2bb0eb6c9a03)
 
-
-🎯 Data Scientist | Software Engineer | Cloud Enthusiast  
 📍 MS in Business Analytics & AI, University of Texas at Dallas  
 🧠 Passionate about data-driven decisions, scalable systems, and full-stack development  
 
