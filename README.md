@@ -2,6 +2,7 @@
 
 🎯 Data Scientist | Software Engineer | Cloud Enthusiast  
 📍 MS in Business Analytics & AI, University of Texas at Dallas
+
 🧠 Passionate about data-driven decisions, scalable systems, and full-stack development
 
 
