@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Haritha Jampani
 
 🎯 Data Scientist | Software Engineer | Cloud Enthusiast  
-📍 MS in Business Analytics & AI, University of Texas at Dallas
-🧠 Passionate about data-driven decisions, scalable systems, and full-stack development
+📍 MS in Business Analytics & AI, University of Texas at Dallas  
+🧠 Passionate about data-driven decisions, scalable systems, and full-stack development  
 
 
 ### 🛠️ Tech Stack
