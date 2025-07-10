@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Haritha Jampani
+## 🙋‍♀️ Hello, I'm Haritha Jampani
 
 🎯 Data Scientist | Software Engineer | Cloud Enthusiast  
 📍 MS in Business Analytics & AI, University of Texas at Dallas  
