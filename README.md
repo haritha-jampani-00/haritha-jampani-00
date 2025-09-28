@@ -16,16 +16,22 @@
 ### 💼 Experience Highlights
 
 - **YAAANA**  
-  Automated SEO audits using Python + Ahrefs, benchmarking 50+ webpages.
-
+  Automated website benchmarking workflows using Python, integrating with Ahrefs APIs to run SEO audits across 50+ webpages.
+  
 - **Nubes Opus LLC**  
-  Built an admin dashboard with Angular + Spring Boot, integrating secure APIs and Storj cloud storage.
+  Developed a scalable admin dashboard with Angular + Spring Boot, integrating secure APIs with Storj cloud storage.
+
+  Implemented role-based authentication and real-time analytics to improve operational efficiency.
 
 - **Samsung Electronics**  
-  Improved microservice testing by 40% using Chai & Mocha; reduced latency by 20% in Node.js + React apps.
+  Improved microservice testing efficiency by 40% with automated test suites using Chai & Mocha.
+
+  Reduced application latency by 20% in Node.js + React apps through optimized API integration and caching.
 
 - **Optum Global Solutions**  
-  Developed an SVM-based model to prioritize insurance claims with 95% accuracy.
+  Built a machine learning pipeline with SVM to prioritize insurance claims, achieving 95% accuracy.
+
+  Enhanced ingestion workflows using Python, streamlining model deployment to production.
 
 ### 🚀 Featured Projects
 
