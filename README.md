@@ -29,9 +29,6 @@
 
 ### 🚀 Featured Projects
 
-- 🏡 [House Price Predictions](https://github.com/haritha-jampani-00/HousePricePredictions)  
-  ML-based model using historical data to predict housing prices and trends.
-
 - 🛒 [Ecommerce Database](https://github.com/haritha-jampani-00/ecommerce_db)  
   PostgreSQL database modeling Customer, Order, Product, Payment & Supplier relationships.
 
@@ -39,13 +36,7 @@
   GA4 + SQL analysis contributing to 80% YoY sales increase and 25% AOV growth.
 
 
-### 📜 Certifications
-
-- 📊 Google Analytics (SkillShop)  
-
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/haritha-jampani/)  
-- 🌐 [Portfolio](https://haritha-jampani-00.github.io/HarithaJampani.github.io/) 
 - 📬 jampaniharitha2502@gmail.com
